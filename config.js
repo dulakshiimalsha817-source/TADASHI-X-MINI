@@ -1,0 +1,20 @@
+module.exports = {
+    AUTO_VIEW_STATUS: 'true',
+    AUTO_LIKE_STATUS: 'true',
+    AUTO_RECORDING: 'true',
+    AUTO_LIKE_EMOJI: ['🧩', '🍉', '💜', '🌸', '🪴', '💊', '💫', '🍂', '🌟', '🎋', '😶‍🌫️', '🫀', '🧿', '👀', '🤖', '🚩', '🥰', '🗿', '💜', '💙', '🌝', '🖤', '💚'],
+    PREFIX: '.',
+    MAX_RETRIES: 3,
+    ADMIN_LIST_PATH: './admin.json',
+    IMAGE_PATH: 'https://files.catbox.moe/3hgbge.jpg',
+    NEWSLETTER_JID: '120363421928318889@newsletter',
+    NEWSLETTER_MESSAGE_ID: '428',
+    OTP_EXPIRY: 300000,
+    NEWS_JSON_URL: '',
+    BOT_NAME: '𝐓𝐀𝐑𝐀𝐒𝐇𝐈 𝐌𝐃 𝐌𝐈𝐍𝐈 𝗩1',
+    OWNER_NAME: '𝐌𝐀𝐍𝐔𝐒𝐇𝐀',
+    OWNER_NUMBER: '94773742779',
+    BOT_VERSION: '1.0.0',
+    BOT_FOOTER: '> 𝐓𝐀𝐃𝐀𝐒𝐇𝐈 𝐌𝐃 𝐌𝐈𝐍𝐈 𝐕-1',
+    
+};
